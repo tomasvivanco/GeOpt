@@ -11,3 +11,5 @@ a = grid
 line = rg.Line (grid[0], grid [10])
 
 b = line.Length
+
+c = line
